@@ -10,7 +10,9 @@
 <div align="center">
 
 <h3 align="center">Clinical Program Data Analysis Tool</h3>
-
+<img src="./example-images/Program Data Dashboard.jpg" height="350" width="650" >
+<br />
+<br />
   <p align="left">
     This tool was built for an agency that designs and manages treatment programs for individuals with autism. The macro is designed to take a CSV input and build an Excel data analysis dashboard along with the ability to automatically generate graphs. It is written to run on MacOS.
     <br />
@@ -45,8 +47,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-<img src="./example-images/Program Data Dashboard.jpg" height="350" width="650" >
 
 This project was built for [Behavioral and Educational Strategies and Training (B.E.S.T.)](https://www.bestforautism.com/) to facilitate a change to digital data collection. The macro takes raw data in the form of a CSV file and creates a dashboard that highlights information pertinent to clinical decision making. The macro also generates a sheet dedicated to generating graphs automatically.
 
